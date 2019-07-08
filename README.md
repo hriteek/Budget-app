@@ -6,4 +6,4 @@ This is simple application that can calculate the total income and total expendi
 2. CSS 3
 3. JavaScript (ES5)
 
-(Click here)[https://hriteek.github.io/budget-app/] to see the live demo of the budget-app.
+[Click here](https://hriteek.github.io/budget-app/) to see the live demo of the budget-app.
